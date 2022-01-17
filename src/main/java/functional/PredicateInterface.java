@@ -3,7 +3,7 @@ package functional;
 import java.util.function.BiPredicate;
 import java.util.function.Predicate;
 
-public class PredictInterface {
+public class PredicateInterface {
 
     public static void main(String[] args) {
 
